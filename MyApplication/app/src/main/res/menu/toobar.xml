@@ -12,23 +12,23 @@
         android:title="Delete"
         app:showAsAction="always"/>
     <item
-        android:id="@+id/comment"
-        android:icon="@drawable/ic_comment"
-        android:title="Comment"
-        app:showAsAction="never"/>
-    <item
-        android:id="@+id/friends"
-        android:icon="@drawable/nav_friends"
-        android:title="Friends"
-        app:showAsAction="never"/>
-    <item
-        android:id="@+id/call"
-        android:icon="@drawable/nav_call"
-        android:title="Call"
-        app:showAsAction="never"/>
-    <item
         android:id="@+id/settings"
         android:icon="@drawable/ic_settings"
         android:title="Settings"
         app:showAsAction="never"/>
+    <!--<item-->
+    <!--android:id="@+id/comment"-->
+    <!--android:icon="@drawable/ic_comment"-->
+    <!--android:title="Comment"-->
+    <!--app:showAsAction="never"/>-->
+    <!--<item-->
+    <!--android:id="@+id/friends"-->
+    <!--android:icon="@drawable/nav_friends"-->
+    <!--android:title="Friends"-->
+    <!--app:showAsAction="never"/>-->
+    <!--<item-->
+    <!--android:id="@+id/call"-->
+    <!--android:icon="@drawable/nav_call"-->
+    <!--android:title="Call"-->
+    <!--app:showAsAction="never"/>-->
 </menu>

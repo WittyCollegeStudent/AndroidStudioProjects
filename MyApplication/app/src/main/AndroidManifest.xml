@@ -5,6 +5,7 @@
     <application
         android:allowBackup="true"
         android:icon="@drawable/nav_icon"
+        android:name="com.example.weianyang.myapplication.MyApplication"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
@@ -17,6 +18,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".FruitActivity"
+            android:theme="@style/FruitActivityTheme"></activity>
     </application>
 
 </manifest>
